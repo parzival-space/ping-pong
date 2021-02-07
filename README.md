@@ -5,7 +5,7 @@ A little project of mine.
 
 Actually, I was just bored and wanted to experiment a little with HTML canvas.
 
-Live Demo: <a href="https://dev-parzival.github.io/ping-pong/game/game.html">Click here!</a>
+Live Demo: <a href="https://malte-linke.github.io/ping-pong/game/game.html">Click here!</a>
 </p>
 
 <h2>Controls</h2>
@@ -39,6 +39,6 @@ Live Demo: <a href="https://dev-parzival.github.io/ping-pong/game/game.html">Cli
 
 <br />
 
-<a href="https://dev-parzival.github.io/ping-pong/game/game.html">
+<a href="https://malte-linke.github.io/ping-pong/game/game.html">
     <img src="https://i.imgur.com/i5XRJgL.gif" />
 </a>
